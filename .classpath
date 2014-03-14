@@ -5,5 +5,8 @@
 	<classpathentry kind="lib" path="C:/Program Files/ImageJ/ij.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Samantha/Documents/DI5/Projet Option/TurboReg/TurboReg_.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Samantha/Documents/DI5/Projet Option/StackReg/StackReg_.jar"/>
+	<classpathentry kind="lib" path="/Users/zhangchipeng/Documents/we/RecalageIRM/lib/ij.jar"/>
+	<classpathentry kind="lib" path="/Users/zhangchipeng/Documents/we/RecalageIRM/lib/StackReg_.jar"/>
+	<classpathentry kind="lib" path="/Users/zhangchipeng/Documents/we/RecalageIRM/lib/TurboReg_.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
