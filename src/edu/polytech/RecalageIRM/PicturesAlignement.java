@@ -1,4 +1,4 @@
-package edu.polytech.RecalageIRM.PicturesAlignement;
+package edu.polytech.RecalageIRM;
 
 
 import ij.ImageStack;
